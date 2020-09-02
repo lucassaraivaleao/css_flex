@@ -1,3 +1,3 @@
-<h1> Landing Page usando CSS Flex </h1>
+<h1> Usando CSS Flex </h1>
 <p>Autor: Lucas Leão </p>
 # css_flex
